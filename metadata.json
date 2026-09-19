@@ -1,0 +1,6 @@
+{
+  "name": "Precision Cursor",
+  "description": "Dokunmatik ekranlarda metin düzenlerken imleci tek karakter ve kelime bazında hassas kaydırma, mikro-trackpad ve anlık seçim kontrolü sağlayan profesyonel metin editörü.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
